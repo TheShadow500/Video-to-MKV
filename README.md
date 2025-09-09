@@ -46,6 +46,17 @@ Al finalizar, vuelve a la carpeta base y muestra un mensaje de cierre.
 
 ---
 
+## 🛠️ DEPENDENCIAS
+
+Este script requiere herramientas externas:
+
+- [FFmpeg](https://ffmpeg.org/download.html) → para la conversión de vídeo.  
+- [FFprobe](https://ffmpeg.org/ffprobe.html) → para extraer duración y metadatos.  
+
+⚠️ Nota: Asegúrate de tener `ffmpeg.exe` y `ffprobe.exe` en la misma carpeta del script o en el **PATH del sistema** para que el script pueda ejecutarlos correctamente.
+
+---
+
 ## 📌 EJEMPLO VISUAL
 
 **Estructura de ejemplo en `D:\Peliculas`:**
